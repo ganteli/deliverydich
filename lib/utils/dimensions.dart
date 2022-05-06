@@ -9,7 +9,7 @@ class Dimensions{
 
   static double height10 = screenHeight/73.7;
   static double height15 = screenHeight/49.13;
-  static double height20 = screenHeight/36.85;
+  static double height20 = screenHeight/30.85;
   static double height30 = screenHeight/24.7;
   static double height45 = screenHeight/16.3;
 
@@ -17,7 +17,7 @@ class Dimensions{
 
   static double width10 = screenHeight/73.7;
   static double width15 = screenHeight/49.13;
-  static double width20 = screenHeight/36.85;
+  static double width20 = screenHeight/30.85;
   static double width30 = screenHeight/24.7;
 
   static double font20 = screenHeight/36.85;
@@ -25,12 +25,12 @@ class Dimensions{
   static double font12 = screenHeight/49.75;
 
 
-  static double radius20 = screenHeight/36.85;
+  static double radius20 = screenHeight/30.85;
   static double radius30 = screenHeight/24.7;
   static double radius15 = screenHeight/49.13;
 
   static double iconSize24 = screenHeight/35.7;
-  static double iconSize16 = screenHeight/52.75;
+  static double iconSize16 = screenHeight/49.75;
 
 
   static double listViewImageSize = screenWidth/3.8;

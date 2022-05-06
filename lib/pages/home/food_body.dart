@@ -27,7 +27,6 @@ class _FoodBodyState extends State<FoodBody> {
     pageController.addListener(() {
       setState(() {
         _currPageValue = pageController.page!;
-
       });
     });
   }
